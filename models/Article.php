@@ -68,6 +68,6 @@ class Article extends \yii\db\ActiveRecord
     }
 
     public function addFunction(){
-        
+        //Bonjour 
     }
 }
